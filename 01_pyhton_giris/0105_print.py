@@ -1,0 +1,6 @@
+print("merhaba dünya")
+print("ecodation", "eğitim", "kurumları","istanbul")
+print("python", "öğreniyorum")
+print(36, 35, 19, 6, 1)
+print("04","Nisan","2021")
+print('bir şey')

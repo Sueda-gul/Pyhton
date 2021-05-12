@@ -1,0 +1,1 @@
+print("şu an main classta sola dayalı olmak zorundayım")

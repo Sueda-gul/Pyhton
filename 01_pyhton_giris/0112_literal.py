@@ -1,0 +1,1 @@
+# literal → değişmez değer → sabit
