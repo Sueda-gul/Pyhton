@@ -35,7 +35,6 @@ for i in range(2, sayi + 1):
 OBEB uygulaması
 
 obeb = 0
-3
 s1 = int(input("Lütfen 1. sayıyı giriniz : "))
 s2 = int(input("Lütfen 2. sayıyı giriniz : "))
 for i in range(1, min(s1, s2) + 1):    
@@ -45,7 +44,7 @@ print(obeb)
 """
 # endregion
 
-# region ornek_3
+# region ornek_4
 """ 
 kullanıcının girdiği sayı TAU sayısı mıdır?
 TAU sayısı : 
